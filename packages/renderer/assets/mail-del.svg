@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/删除</title>
+    <g id="整理后" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="只看未读" transform="translate(-1392.000000, -122.000000)">
+            <g id="编组-15" transform="translate(1392.000000, 122.000000)">
+                <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                <path d="M7,8 L7,18 C7,18.551 7.448,19 8,19 L16,19 C16.552,19 17,18.551 17,18 L17,8 L19,8 L19,18 C19,19.654 17.654,21 16,21 L8,21 C6.346,21 5,19.654 5,18 L5,8 L7,8 Z M11,8 L11,18 L9,18 L9,8 L11,8 Z M15,8 L15,18 L13,18 L13,8 L15,8 Z M20,5 C20.553,5 21,5.448 21,6 C21,6.552 20.553,7 20,7 L20,7 L4,7 C3.447,7 3,6.552 3,6 C3,5.448 3.447,5 4,5 L4,5 Z M14,2 C14.553,2 15,2.448 15,3 C15,3.552 14.553,4 14,4 L10,4 C9.447,4 9,3.552 9,3 C9,2.448 9.447,2 10,2 L14,2 Z" id="颜色备份" fill="#9999A3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

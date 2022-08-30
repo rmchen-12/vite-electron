@@ -1,0 +1,11 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "sourceMap": false,
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "jsx": "preserve",
+
+    "lib": ["ESNext", "dom", "dom.iterable"]
+  }
+}

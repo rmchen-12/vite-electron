@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "baseUrl": "./",
+    "strict": true,
+    "isolatedModules": true,
+    "types": ["node"],
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "paths": {
+      "base/*": ["./base/*"],
+      "platform/*": ["./platform/*"],
+      "main/*": ["./main/src/*"],
+      "render/*": ["./renderer/src/*"],
+      "sharedProcess/*": ["./sharedProcess/src/*"],
+      "#preload": ["./preload/src/index"],
+      "/@/*": ["./renderer/src/*"]
+    }
+  },
+  "include": ["../types/**/*.d.ts", "**/*.ts"],
+  "exclude": ["**/*.spec.ts", "**/*.test.ts"]
+}
